@@ -1,9 +1,9 @@
 # Site settings
-title: BY Blog
+title: Shiwei Shang's Blog
 SEOTitle: 尚士维的博客 | Shiwei Shang's Blog
 header-img: img/post-bg-desk.jpg
 email: shiwei.shang@qq.com
-description: "Every failure is leading towards success."
+description: "没有什么能够阻挡，你对自由的向往。"
 keyword: "Shiwei Shang, Shiwei Shang Blog, 尚士维的博客, shangshiwei, 尚士维, technical writer, translator, English Chinese translator"
 url: "http://shiweishang.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -11,19 +11,14 @@ github_repo: "https://github.com/ShiweiShang/shiweishang.github.io.git" # you co
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "风一样的男子。"
 sidebar-avatar: /img/about-sws.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
-RSS: false
-# weibo_username:     
-zhihu_username:     
-github_username:    
-facebook_username:  
-jianshu_username:   
-#twitter_username:   
+RSS: false       
+github_username:    shiweishang  
 
 
 
