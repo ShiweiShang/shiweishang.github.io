@@ -4,7 +4,7 @@ layout:     post
 
 title:      技术文档写作员的核心素质
 
-date:       2025-08-05
+date:       2025-08-06
 
 author:     Shiwei Shang
 
