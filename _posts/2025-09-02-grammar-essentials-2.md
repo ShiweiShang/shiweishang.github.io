@@ -64,4 +64,4 @@ tags:
 - 大写字母和单词连接时要用连字符：T-shirt。
 - 数字21-99， 分数，或者带有数字的复合词用作形容词时要用连字符：seventy-two，one-half，four-year loan。
 - 一系列“数字+单词”的复合词作形容词时，要保留连字符，并且用逗号隔开：Joe scored three touchdowns on **twelve-, sixteen-, and five-yard carries**.
-表示范围、比分的时候要用“–”而不是“-”。
+- 表示范围、比分的时候要用“–”而不是“-”。
