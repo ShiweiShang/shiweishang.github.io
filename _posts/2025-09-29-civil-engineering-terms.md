@@ -32,7 +32,7 @@ tags:
     - 土木工程    
 ---
 # 土木工程术语及释义
-土木工程术语表，内容主要源于本人某水泥厂项目翻译经验。点[这里]()查看带有插图的文档。
+土木工程术语表，内容主要源于本人某水泥厂项目翻译经验。点[这里](https://github.com/ShiweiShang/shiweishang.github.io/blob/main/_posts/civil-engineering-terms.pdf)查看带有插图的文档。
 
 | **术语** | **译文** | **释义** |
 | --- | --- | --- | 
