@@ -1,33 +1,11 @@
 ---
-
- 
-
 layout:     post
-
- 
-
 title:      技术文档写作的工作流程
-
- 
-
 date:       2025-10-18
-
- 
-
 author:     Shiwei Shang
-
- 
-
 header-img: img/post-bg-coffee.jpeg
-
- 
-
 catalog: true
-
- 
-
 tags:
-
     - 技术文档写作
 ---
 # 技术文档写作的工作流程
