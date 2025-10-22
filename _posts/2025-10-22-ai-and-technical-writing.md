@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      人工智能和技术文档写作
-date:       2025-10-21
+date:       2025-10-22
 author:     Shiwei Shang
 header-img: img/post-bg-coffee.jpeg
 catalog: true
